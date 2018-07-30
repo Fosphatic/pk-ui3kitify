@@ -1,0 +1,20 @@
+{
+    "name": "svensuchan/ui3kitify",
+    "type": "pagekit-theme",
+    "version": "1.0.0",
+    "title": "UI3Kitify",
+    "description": "'Based on Pastheme Ankara Theme with UIKit 3 Support'.",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "SvenSuchan",
+        "email": "sven@suchan.me",
+        "homepage": "https://www.suchan.me"
+      }
+    ],
+    "extra": {
+      "icon" : "logo.svg",
+      "image": "image.svg",
+      "scripts":"scripts.php"
+    }
+}
