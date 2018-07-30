@@ -25,7 +25,7 @@
       ]);
 
       $headerOther = [
-        'data-src' => 'data-src="'/.$params['hero']['section_bg']['src'].'" uk-img',
+        'data-src' => 'data-src=" ' . $params['hero']['section_bg']['src'] . ' " uk-img',
       ];
 
     }
