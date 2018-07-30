@@ -1,5 +1,5 @@
 {
-    "name": "svensuchan/ui3kitify",
+    "name": "fosphatic/ui3kitify",
     "type": "pagekit-theme",
     "version": "1.0.0",
     "title": "UI3Kitify",
@@ -7,7 +7,7 @@
     "license": "MIT",
     "authors": [
       {
-        "name": "SvenSuchan",
+        "name": "Fosphatic",
         "email": "sven@suchan.me",
         "homepage": "https://www.suchan.me"
       }

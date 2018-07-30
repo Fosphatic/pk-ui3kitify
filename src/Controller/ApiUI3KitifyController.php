@@ -1,9 +1,9 @@
 <?php
 
-namespace SvenSuchan\UI3Kitify\Controller;
+namespace Fosphatic\UI3Kitify\Controller;
 
 use Pagekit\Application as App;
-use SvenSuchan\UI3Kitify\OtherExtends;
+use Fosphatic\UI3Kitify\OtherExtends;
 
 class ApiUI3KitifyController{
 

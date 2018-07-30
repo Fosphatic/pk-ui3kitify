@@ -48,7 +48,7 @@
 	var __vue_styles__ = {}
 	__vue_script__ = __webpack_require__(9)
 	if (Object.keys(__vue_script__).some(function (key) { return key !== "default" && key !== "__esModule" })) {
-	  console.warn("[vue-loader] app/components/widget-theme.vue: named exports in *.vue files are ignored.")}
+	  console.warn("[vue-loader] app\\components\\widget-theme.vue: named exports in *.vue files are ignored.")}
 	__vue_template__ = __webpack_require__(10)
 	module.exports = __vue_script__ || {}
 	if (module.exports.__esModule) module.exports = module.exports.default
@@ -65,7 +65,7 @@
 	  var hotAPI = require("vue-hot-reload-api")
 	  hotAPI.install(require("vue"), false)
 	  if (!hotAPI.compatible) return
-	  var id = "_v-23f2a202/widget-theme.vue"
+	  var id = "_v-8f3dd9cc/widget-theme.vue"
 	  if (!module.hot.data) {
 	    hotAPI.createRecord(id, module.exports)
 	  } else {
@@ -75,15 +75,18 @@
 
 /***/ }),
 /* 1 */,
-/* 2 */
+/* 2 */,
+/* 3 */,
+/* 4 */,
+/* 5 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var __vue_script__, __vue_template__
 	var __vue_styles__ = {}
-	__vue_script__ = __webpack_require__(3)
+	__vue_script__ = __webpack_require__(6)
 	if (Object.keys(__vue_script__).some(function (key) { return key !== "default" && key !== "__esModule" })) {
-	  console.warn("[vue-loader] app/components/input-image-framework.vue: named exports in *.vue files are ignored.")}
-	__vue_template__ = __webpack_require__(4)
+	  console.warn("[vue-loader] app\\components\\input-image-framework.vue: named exports in *.vue files are ignored.")}
+	__vue_template__ = __webpack_require__(7)
 	module.exports = __vue_script__ || {}
 	if (module.exports.__esModule) module.exports = module.exports.default
 	var __vue_options__ = typeof module.exports === "function" ? (module.exports.options || (module.exports.options = {})) : module.exports
@@ -99,7 +102,7 @@
 	  var hotAPI = require("vue-hot-reload-api")
 	  hotAPI.install(require("vue"), false)
 	  if (!hotAPI.compatible) return
-	  var id = "_v-79435a9a/input-image-framework.vue"
+	  var id = "_v-281864df/input-image-framework.vue"
 	  if (!module.hot.data) {
 	    hotAPI.createRecord(id, module.exports)
 	  } else {
@@ -108,7 +111,7 @@
 	})()}
 
 /***/ }),
-/* 3 */
+/* 6 */
 /***/ (function(module, exports) {
 
 	'use strict';
@@ -176,15 +179,12 @@
 	});
 
 /***/ }),
-/* 4 */
+/* 7 */
 /***/ (function(module, exports) {
 
 	module.exports = "\n\n<a class=\"uk-placeholder uk-text-center uk-display-block uk-margin-remove\" v-if=\"!image.src\" @click.prevent=\"pick\">\n    <img width=\"60\" height=\"60\" :alt=\"'Placeholder Image' | trans\" :src=\"$url('app/system/assets/images/placeholder-image.svg')\">\n\n    <p class=\"uk-text-muted uk-margin-small-top\">{{ 'Add Image' | trans }}</p>\n</a>\n\n<div class=\"uk-overlay uk-overlay-hover uk-visible-hover {{ class }}\" v-else>\n\n    <img :src=\"$url(image.src)\">\n\n    <div class=\"uk-overlay-panel uk-overlay-background uk-overlay-fade\"></div>\n\n    <a class=\"uk-position-cover\" @click.prevent=\"pick\"></a>\n\n    <div class=\"uk-panel-badge pk-panel-badge uk-hidden\">\n        <ul class=\"uk-subnav pk-subnav-icon\">\n            <li>\n                <a class=\"pk-icon-delete pk-icon-hover\" :title=\"'Delete' | trans\" data-uk-tooltip=\"{delay: 500}\" @click.prevent=\"remove\"></a>\n            </li>\n        </ul>\n    </div>\n\n</div>\n\n<v-modal v-ref:modal>\n    <form class=\"uk-form uk-form-stacked\" @submit=\"update\">\n\n        <div class=\"uk-modal-header\">\n            <h2>{{ 'Image' | trans }}</h2>\n        </div>\n\n        <div class=\"uk-form-row\">\n            <input-image :source.sync=\"img.src\"></input-image>\n        </div>\n\n        <div class=\"uk-form-row\">\n            <label for=\"form-src\" class=\"uk-form-label\">{{ 'URL' | trans }}</label>\n            <div class=\"uk-form-controls\">\n                <input id=\"form-src\" class=\"uk-width-1-1\" type=\"text\" v-model=\"img.src\" lazy>\n            </div>\n        </div>\n\n        <div class=\"uk-form-row\">\n            <label for=\"form-blend\" class=\"uk-form-label\">{{ 'Blend' | trans }}</label>\n            <div class=\"uk-form-controls\">\n                <select id=\"form-blend\" class=\"uk-width-1-1\" v-model=\"img.blend\">\n                  <option value=\"\">None Blend</option>\n                  <option v-for=\"blend in blends\" v-bind:value=\"blend.key\">{{blend.name}}</option>\n                </select>\n            </div>\n        </div>\n\n        <div class=\"uk-form-row\">\n            <label for=\"form-size\" class=\"uk-form-label\">{{ 'Size' | trans }}</label>\n            <div class=\"uk-form-controls\">\n                <select id=\"form-size\" class=\"uk-width-1-1\" v-model=\"img.size\">\n                  <option value=\"uk-background-cover\" :selected=\"!img.size\">Cover</option>\n                  <option value=\"uk-background-contain\">Contain</option>\n                </select>\n            </div>\n        </div>\n\n        <div class=\"uk-form-row \">\n            <div class=\"uk-form-controls\">\n              <label for=\"form-fixed\" >{{ 'Fixed' | trans }}</label>\n              <input type=\"checkbox\" id=\"form-fixed\" value=\"true\" v-model=\"img.fixed\" />\n            </div>\n        </div>\n\n        <div class=\"uk-modal-footer uk-text-right\">\n            <button class=\"uk-button uk-button-link uk-modal-close\" type=\"button\">{{ 'Cancel' | trans }}</button>\n            <button class=\"uk-button uk-button-link\" type=\"button\" @click.prevent=\"update\">{{ 'Update' | trans }}</button>\n        </div>\n\n    </form>\n</v-modal>\n\n";
 
 /***/ }),
-/* 5 */,
-/* 6 */,
-/* 7 */,
 /* 8 */,
 /* 9 */
 /***/ (function(module, exports, __webpack_require__) {
@@ -217,7 +217,7 @@
 	    },
 
 	    components: {
-	        inputImageFramework: __webpack_require__(2)
+	        inputImageFramework: __webpack_require__(5)
 	    },
 
 	    section: {

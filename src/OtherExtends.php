@@ -1,6 +1,6 @@
 <?php
 
-namespace SvenSuchan\UI3Kitify;
+namespace Fosphatic\UI3Kitify;
 
 use Pagekit\Application as App;
 

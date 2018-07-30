@@ -5,7 +5,7 @@ return [
   'name'  => 'ui3kitify',
   'main'  => function(Application $app){},
   'resources' => ['theme:'=>'theme'],
-  'autoload'  => ['SvenSuchan\\UI3Kitify\\' => 'src'],
+  'autoload'  => ['Fosphatic\\UI3Kitify\\' => 'src'],
   'settings' => '@ui3kitify',
 
   'menu' => [
@@ -48,13 +48,13 @@ return [
     '/apiui3kitify' => [
       'name' => '@apiui3kitify',
       'controller' => [
-        'Pastheme\\UI3Kitify\\Controller\\ApiUI3KitifyController'
+        'Fosphatic\\UI3Kitify\\Controller\\ApiUI3KitifyController'
       ]
     ],
     '/ui3kitify' => [
       'name'  => '@ui3kitify',
       'controller'  => [
-        'Pastheme\\UI3Kitify\\Controller\\UI3KitifyController'
+        'Fosphatic\\UI3Kitify\\Controller\\UI3KitifyController'
       ]
     ]
   ],
