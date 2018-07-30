@@ -14,7 +14,7 @@
    viewBox="0 0 325.80203 169.26724"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (unknown)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="image.svg">
   <defs
      id="defs2">
@@ -156,9 +156,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="973.7596"
-     inkscape:cy="649.3005"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="527.25267"
+     inkscape:cy="372.45948"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -166,10 +166,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="723"
-     inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -179,7 +179,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -192,9 +192,9 @@
        id="rect4679"
        width="325.80203"
        height="169.26724"
-       x="-726.84155"
+       x="-729.24701"
        y="469.39017"
-       style="fill:#d9ffa9;fill-opacity:1;stroke-width:0.06553489" />
+       style="fill:#3399ff;fill-opacity:1;stroke-width:0.06553489" />
     <g
        id="g6022"
        transform="matrix(0.26547824,0,0,0.26547824,-110.05418,693.34722)">
@@ -537,30 +537,9 @@
       </g>
       <g
          transform="matrix(2.0910088,0,0,2.0910088,-1377.5266,-590.0701)"
-         id="g2433">
-        <path
-           style="opacity:1;fill:#adff2f;fill-opacity:1;stroke:none;stroke-width:2.18100142;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -159.73392,-53.99534 a 50.474608,50.474608 0 0 0 -50.47461,50.4746242 50.474608,50.474608 0 0 0 50.47461,50.4746228 50.474608,50.474608 0 0 0 50.47461,-50.4746228 50.474608,50.474608 0 0 0 -50.47461,-50.4746242 z m 0,2.819136 a 47.655533,47.655533 0 0 1 47.65549,47.6554882 47.655533,47.655533 0 0 1 -47.65549,47.6554878 47.655533,47.655533 0 0 1 -47.65548,-47.6554878 47.655533,47.655533 0 0 1 47.65548,-47.6554882 z"
-           id="circle842"
-           inkscape:connector-curvature="0" />
-        <path
-           style="opacity:1;fill:#32cd32;fill-opacity:1;stroke:none;stroke-width:1.89779186;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -159.73392,-47.440849 a 43.920328,43.920328 0 0 0 -43.92013,43.9201333 43.920328,43.920328 0 0 0 43.92013,43.9206337 43.920328,43.920328 0 0 0 43.92014,-43.9206337 43.920328,43.920328 0 0 0 -43.92014,-43.9201333 z m 0,22.299682 a 21.620575,21.620575 0 0 1 21.62045,21.6204513 21.620575,21.620575 0 0 1 -21.62045,21.6204507 21.620575,21.620575 0 0 1 -21.62045,-21.6204507 21.620575,21.620575 0 0 1 21.62045,-21.6204513 z"
-           id="circle825"
-           inkscape:connector-curvature="0" />
-        <path
-           style="opacity:1;fill:#356d00;fill-opacity:1;stroke:none;stroke-width:1.38398945;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -159.73392,-35.55005 a 32.029473,32.029473 0 0 0 -32.02934,32.0293343 32.029473,32.029473 0 0 0 32.02934,32.0293347 32.029473,32.029473 0 0 0 32.02934,-32.0293347 32.029473,32.029473 0 0 0 -32.02934,-32.0293343 z m 0,14.475776 a 17.553648,17.553648 0 0 1 17.55357,17.5535583 17.553648,17.553648 0 0 1 -17.55357,17.5535587 17.553648,17.553648 0 0 1 -17.55356,-17.5535587 17.553648,17.553648 0 0 1 17.55356,-17.5535583 z"
-           id="path817"
-           inkscape:connector-curvature="0" />
-        <path
-           style="opacity:1;fill:#e9f6d4;fill-opacity:1;stroke:none;stroke-width:2.382056;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -159.73392,-58.648466 a 55.127582,55.127582 0 0 0 -55.12774,55.1277504 55.127582,55.127582 0 0 0 55.12774,55.1277506 55.127582,55.127582 0 0 0 55.12775,-55.1277506 55.127582,55.127582 0 0 0 -55.12775,-55.1277504 z m 0,1.067259 a 54.060534,54.060534 0 0 1 54.06049,54.0604914 54.060534,54.060534 0 0 1 -54.06049,54.0604916 54.060534,54.060534 0 0 1 -54.06048,-54.0604916 54.060534,54.060534 0 0 1 54.06048,-54.0604914 z"
-           id="path850"
-           inkscape:connector-curvature="0" />
-      </g>
+         id="g2433" />
       <rect
-         transform="matrix(1.2669007,0,0,1.2669007,-291.4807,-715.62794)"
+         transform="matrix(1.2669007,0,0,1.2669007,-206.41054,-738.27976)"
          style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:0.40614885;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3183)"
          id="use2991"
          width="94.872017"
@@ -569,7 +548,7 @@
          y="34.553604"
          ry="2.5520027" />
       <g
-         transform="matrix(0.29767223,0,0,-0.29767223,-2024.7902,-522.30475)"
+         transform="matrix(0.29767223,0,0,-0.29767223,-1939.72,-544.95657)"
          inkscape:label="pagekit-icon"
          id="g2997">
         <g
@@ -583,7 +562,7 @@
         </g>
       </g>
       <rect
-         transform="matrix(1.2669007,0,0,1.2669007,-291.4807,-715.62794)"
+         transform="matrix(1.2669007,0,0,1.2669007,-365.06761,-797.70344)"
          ry="2.5520027"
          y="81.058502"
          x="-1021.1255"
@@ -593,11 +572,11 @@
          style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:0.40614885;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3183)" />
       <g
          style="fill:#28a5f5;fill-opacity:1"
-         transform="matrix(2.2646875,0,0,2.2646875,-1556.7542,-591.66623)"
+         transform="matrix(2.2646875,0,0,2.2646875,-1630.2467,-677.74313)"
          id="g3233">
         <polygon
            style="fill:#28a5f5;fill-opacity:1"
-           points="8.17,4.45 13.6,7.44 19.1,4.1 13.75,1 "
+           points="13.75,1 8.17,4.45 13.6,7.44 19.1,4.1 "
            id="polygon3219" />
         <path
            style="fill:#28a5f5;fill-opacity:1"
@@ -608,14 +587,14 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.62139535px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#356d00;fill-opacity:1;stroke:none;stroke-width:0.06553489"
-       x="-613.0155"
-       y="609.78473"
+       style="font-style:normal;font-weight:normal;font-size:5.27798414px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#356d00;fill-opacity:1;stroke:none;stroke-width:0.13194962"
+       x="-638.7785"
+       y="613.61597"
        id="text6026"><tspan
          sodipodi:role="line"
          id="tspan6024"
-         x="-613.0155"
-         y="609.78473"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.73798466px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#356d00;fill-opacity:1;stroke-width:0.06553489">ANATOLIA FRAMEWORK</tspan></text>
+         x="-638.7785"
+         y="613.61597"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.59328079px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;fill-opacity:1;stroke-width:0.13194962">UI3Kitify Theme</tspan></text>
   </g>
 </svg>
