@@ -1,221 +1,40 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="425.65854mm"
-   height="263.07144mm"
-   viewBox="0 0 425.65854 263.07144"
-   version="1.1"
-   id="svg8"
-   inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="center-menu.svg">
-  <defs
-     id="defs2">
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Drop Shadow"
-       id="filter1033">
-      <feFlood
-         flood-opacity="0.498039"
-         flood-color="rgb(200,200,200)"
-         result="flood"
-         id="feFlood1023" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite1025" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="10"
-         result="blur"
-         id="feGaussianBlur1027" />
-      <feOffset
-         dx="6"
-         dy="6"
-         result="offset"
-         id="feOffset1029" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite1031" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Drop Shadow"
-       id="filter1033-5">
-      <feFlood
-         flood-opacity="0.498039"
-         flood-color="rgb(200,200,200)"
-         result="flood"
-         id="feFlood1023-9" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite1025-7" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="10"
-         result="blur"
-         id="feGaussianBlur1027-7" />
-      <feOffset
-         dx="6"
-         dy="6"
-         result="offset"
-         id="feOffset1029-6" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite1031-7" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Drop Shadow"
-       id="filter1191">
-      <feFlood
-         flood-opacity="0.498039"
-         flood-color="rgb(200,200,200)"
-         result="flood"
-         id="feFlood1181" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite1183" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="10"
-         result="blur"
-         id="feGaussianBlur1185" />
-      <feOffset
-         dx="6"
-         dy="6"
-         result="offset"
-         id="feOffset1187" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite1189" />
-    </filter>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#f9f9fb"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="1724.269"
-     inkscape:cy="64.736287"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1615"
-     inkscape:window-height="1026"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(954.36034,-681.02379)">
-    <rect
-       style="opacity:1;fill:#f6f6f6;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1033-5)"
-       id="rect815"
-       width="354.71542"
-       height="219.22618"
-       x="-918.88879"
-       y="702.94641" />
-    <rect
-       style="opacity:1;fill:#fd5;fill-opacity:1;stroke:none;stroke-width:1.73702335;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1035"
-       width="354.71542"
-       height="56.661137"
-       x="-918.88879"
-       y="702.94641" />
-    <path
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m -894.17334,714.70644 v 33.14113 h 33.14163 v -33.14113 z m 16.57106,6.32416 10.63451,18.41955 h -21.26951 z"
-       id="rect1037"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:comforta;-inkscape-font-specification:comforta;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-796.84851"
-       y="734.94409"
-       id="text1057"><tspan
-         sodipodi:role="line"
-         id="tspan1055"
-         x="-796.84851"
-         y="734.94409"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:UBUNTU;-inkscape-font-specification:'UBUNTU Medium';fill:#4d4d4d;fill-opacity:1;stroke-width:0.26458332">HOME   BLOG   ABOUT</tspan></text>
-    <text
-       id="text1061"
-       y="841.5932"
-       x="-741.1767"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.22604561px;line-height:1.25;font-family:comforta;-inkscape-font-specification:comforta;letter-spacing:0px;word-spacing:0px;fill:#999;fill-opacity:1;stroke:none;stroke-width:0.43065116"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:28.71007919px;font-family:UBUNTU;-inkscape-font-specification:'UBUNTU Light';text-align:center;text-anchor:middle;fill:#999;fill-opacity:1;stroke-width:0.43065116"
-         y="841.5932"
-         x="-741.1767"
-         id="tspan1059"
-         sodipodi:role="line">CENTER MAİN MENU</tspan></text>
-    <g
-       id="g1112"
-       transform="translate(-113.79951,861.02977)">
-      <circle
-         r="3.7417734"
-         cy="-139.71841"
-         cx="-473.60162"
-         id="path1103"
-         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <circle
-         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle1105"
-         cx="-473.60162"
-         cy="-129.13509"
-         r="3.7417734" />
-      <circle
-         r="3.7417734"
-         cy="-118.55176"
-         cx="-473.60162"
-         id="circle1107"
-         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.64583325;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 id="svg8" inkscape:version="0.92.3 (unknown)" sodipodi:docname="center-menu.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1206.6 745.7"
+	 style="enable-background:new 0 0 1206.6 745.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#filter1033-5);}
+	.st1{fill:#F6F6F6;}
+	.st2{fill:#3399FF;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'ArialMT';}
+	.st5{font-size:30px;}
+	.st6{fill:#999999;}
+	.st7{font-size:81.3829px;}
+</style>
+<filter  id="filter1033-5" inkscape:label="Drop Shadow" style="color-interpolation-filters:sRGB">
+	<feFlood  flood-color="rgb(200,200,200)" flood-opacity="0.498039" id="feFlood1023-9" result="flood"></feFlood>
+	<feComposite  id="feComposite1025-7" in="flood" in2="SourceGraphic" operator="in" result="composite1"></feComposite>
+	<feGaussianBlur  id="feGaussianBlur1027-7" in="composite1" result="blur" stdDeviation="10"></feGaussianBlur>
+	<feOffset  dx="6" dy="6" id="feOffset1029-6" result="offset"></feOffset>
+	<feComposite  id="feComposite1031-7" in="SourceGraphic" in2="offset" operator="over" result="composite2"></feComposite>
+</filter>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" id="base" inkscape:current-layer="layer1" inkscape:cx="1724.269" inkscape:cy="64.736287" inkscape:document-units="mm" inkscape:pageopacity="1" inkscape:pageshadow="2" inkscape:window-height="1026" inkscape:window-maximized="1" inkscape:window-width="1615" inkscape:window-x="65" inkscape:window-y="24" inkscape:zoom="0.175" pagecolor="#f9f9fb" showgrid="false">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(954.36034,-681.02379)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	<g id="rect815" class="st0">
+		<rect x="-853.8" y="743.2" class="st1" width="1005.5" height="621.4"/>
+	</g>
+	<rect id="rect1035" x="-853.8" y="743.2" class="st2" width="1005.5" height="160.6"/>
+	<path id="rect1037" inkscape:connector-curvature="0" class="st3" d="M-783.8,776.5v93.9h93.9v-93.9H-783.8z M-736.8,794.4
+		l30.1,52.2h-60.3L-736.8,794.4z"/>
+	<text transform="matrix(1 0 0 1 -507.8691 833.8676)" class="st3 st4 st5">HOME   BLOG   ABOUT</text>
+	<text transform="matrix(1 0 0 1 -761.5039 1136.1801)" class="st6 st4 st7">CENTER MAİN MENU</text>
+	<g id="g1112" transform="translate(-113.79951,861.02977)">
+		<circle id="path1103" class="st3" cx="199.6" cy="-65.8" r="10.6"/>
+		<circle id="circle1105" class="st3" cx="199.6" cy="-35.8" r="10.6"/>
+		<circle id="circle1107" class="st3" cx="199.6" cy="-5.8" r="10.6"/>
+	</g>
+</g>
 </svg>
