@@ -7,10 +7,9 @@ module.exports = {
     ],
     sidebar: [
       '/',
-      '/page-a',
-      ['/page-b', 'Explicit link text']
+      ['/documentation/', 'Documentation']
     ]
   },
   title: 'UI3Kitify Theme',
-  description: 'Just playing around'
+  description: 'Simple Documentation'
 }

@@ -1,6 +1,6 @@
 ---
-title: Blogging Like a Hacker
+title: Documentation
 lang: en-US
 ---
 
-# UI3Kitify
+# Getting Started
