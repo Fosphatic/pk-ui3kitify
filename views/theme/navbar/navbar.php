@@ -48,7 +48,7 @@
 
     $contentStyle = [
       $params['hero']['text_color'],
-      'uk-flex uk-flex-center uk-flex-middle'
+      'uk-height-viewport'
     ];
 
   }
@@ -56,16 +56,20 @@
   ?>
 
   <header class="<?= implode(' ' , $headerStyle[0]) ?> <?= isset($headerStyle[1]) ? implode(' ' , $headerStyle[1]):'' ?>" <?= implode(' ' , $headerOther) ?>>
+    <div class="uk-position-relative">
+      <main class="<?= implode(' ' , array_values($contentStyle)) ?> <?= implode(' ' , array_values($height)) ?>" <?= $params['hero']['expand'] === true ? implode(' ' , $contentOther):'' ?>>
+        <?= $params['hero']['content'] ?>
+      </main>
 
-    <nav class="<?= implode(' ' , $navbarStyle) ?>">
-      <div class="<?= $params['navbar']['container'] ?>" uk-navbar>
-        <?= $view->render('theme:views/theme/navbar/' . $params['navbar']['mode'] . '/navbar.php') ?>
+      <div class="uk-position-top uk-section uk-container">
+        <nav class="uk-navbar-container uk-navbar-transparent" uk-navbar>
+          <?= $view->render('theme:views/theme/navbar/' . $params['navbar']['mode'] . '/navbar.php') ?>
+        </nav>
       </div>
-    </nav>
+    </div>
 
-    <main class="<?= implode(' ' , array_values($contentStyle)) ?> <?= implode(' ' , array_values($height)) ?>" <?= $params['hero']['expand'] === true ? implode(' ' , $contentOther):'' ?>>
-      <?= $params['hero']['content'] ?>
-    </main>
+
+
 
   </header>
 
