@@ -48,7 +48,7 @@
       <?= $view->position('footer' , 'theme:views/theme/positions/position.php') ?>
     <?php endif; ?>
 
-    <div class="uk-section uk-section-secondary uk-section-xsmall">
+    <div class="uk-section uk-section-default uk-section-xsmall">
 
       <div class="<?= $params['content'] ?>">
 

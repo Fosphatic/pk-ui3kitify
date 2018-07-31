@@ -11821,3 +11821,10 @@ blockquote .avatar {
 .contact .uk-contrast {
     color: #FFF;
 }
+.footer {
+    padding-top: 25px;
+}
+.uk-section.uk-section-muted.uk-padding-remove-vertical.\31 {
+    border-bottom: 1px solid rgb(0,0,0, 0.1);
+    border-top: 1px solid rgb(0,0,0, 0.1);
+}
