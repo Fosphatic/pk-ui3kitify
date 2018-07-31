@@ -7,6 +7,7 @@
     <?= $view->render('head') ?>
 
     <?= $view->style('theme' , 'theme:assets/css/uikit.ui3kitify.min.css') ?>
+    <?= $view->style('theme' , 'theme:assets/css/uikit.ui3kitify.css') ?>
     <?= $view->script('theme-js' , 'theme:assets/js/uikit.min.js' , ['jquery']) ?>
     <?= $view->script('theme-icons' , 'theme:assets/js/uikit-icons.min.js' , ['jquery' , 'theme-js']) ?>
   </head>
@@ -23,8 +24,24 @@
       </div>
     <?php endif; ?>
 
+    <?php if ($view->position()->exists('showcase')): ?>
+      <?= $view->position('showcase' , 'theme:views/theme/positions/position_blank.php') ?>
+    <?php endif; ?>
+
     <?php if ($view->position()->exists('bottom')): ?>
       <?= $view->position('bottom' , 'theme:views/theme/positions/position.php') ?>
+    <?php endif; ?>
+
+    <?php if ($view->position()->exists('maps')): ?>
+      <?= $view->position('maps' , 'theme:views/theme/positions/position_blank.php') ?>
+    <?php endif; ?>
+
+    <?php if ($view->position()->exists('team')): ?>
+      <?= $view->position('team' , 'theme:views/theme/positions/position.php') ?>
+    <?php endif; ?>
+
+    <?php if ($view->position()->exists('contact')): ?>
+      <?= $view->position('contact' , 'theme:views/theme/positions/position_blank.php') ?>
     <?php endif; ?>
 
     <?php if ($view->position()->exists('footer')): ?>

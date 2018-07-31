@@ -3,8 +3,8 @@
 <?php endif; ?>
 
 <?php if ($view->menu()->exists('second')): ?>
-  <div class="uk-navbar-item">
-    <a href="#second-menu" class="uk-link-reset" uk-toggle><i uk-icon="icon:menu; ratio:2"></i></a>
+  <div class="uk-navbar-item uk-icon-color">
+    <a href="#second-menu" class="uk-link-reset" uk-toggle><i uk-icon="icon:menu; ratio:2;"></i></a>
   </div>
 
   <div id="second-menu" class="uk-modal-full" uk-modal>

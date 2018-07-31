@@ -39,7 +39,11 @@ return [
     'offcanvast-top' => 'Offcanvas Top',
     'offcanvast-bottom' => 'Offcanvas Bottom',
     'top' => 'Top',
+    'showcase' => 'Showcase',
     'bottom' => 'Bottom',
+    'maps' => 'Maps',
+    'team' => 'Team',
+    'contact' => 'Contact',
     'footer'   => 'Footer',
     'footer-right'   => 'Footer Right',
   ],
@@ -61,7 +65,7 @@ return [
 
   'node'  => [
     'hero'  => [
-      'content' => '',
+      'content' => 'uk-cover-container',
       'status'  => false,
       'section_bg' => '',
       'section_color' => 'uk-section-default',
@@ -84,7 +88,7 @@ return [
 
   'config'  => [
     'navbar'  => [
-      'container' => 'uk-container',
+      'container' => 'uk-position-top',
       'mode'  => 'default',
     ],
     'content' => 'uk-container',
