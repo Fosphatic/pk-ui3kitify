@@ -1,10 +1,10 @@
 <template>
 
-  <div class="uk-form-row">
-    <label class="uk-form-label uk-margin-medium-bottom">UIKit-Icon-Name (Attention: only the name of the icon without uk-icon prefix!)</label>
-    <div class="uk-form-controls">
-      <input type="text" v-model="node.data.theme.page_icon" />
-    </div>
+  <div class="uk-form-row uk-margin">
+    <label class="uk-form-label">UIKit-Icon-Name (Attention: only the name of the icon without uk-icon prefix!)</label>
+  </div>
+  <div class="uk-form-controls">
+    <input type="text" v-model="node.data.theme.page_icon" />
   </div>
 
 </template>
