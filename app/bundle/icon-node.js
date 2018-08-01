@@ -96,7 +96,7 @@
 /* 2 */
 /***/ (function(module, exports) {
 
-	module.exports = "\n\n<div class=\"uk-form-row\">\n  <label class=\"uk-form-label\">Icon-Name</label>\n  <div class=\"uk-form-controls\">\n    <input type=\"text\" v-model=\"node.data.theme.page_icon\" />\n  </div>\n</div>\n\n";
+	module.exports = "\n\n<div class=\"uk-form-row\">\n  <label class=\"uk-form-label\">UIKit-Icon-Name (Attention: only the name of the icon without uk-icon prefix!)</label>\n  <div class=\"uk-form-controls\">\n    <input type=\"text\" v-model=\"node.data.theme.page_icon\" />\n  </div>\n</div>\n\n";
 
 /***/ })
 /******/ ]);

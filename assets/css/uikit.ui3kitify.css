@@ -11514,19 +11514,19 @@ iframe.uk-cover {
 
 
 svg:hover #line1 {
-animation: line1anim1 1s linear;
+animation: line1anim1 .5s linear;
 animation-direction: alternate;
 animation-fill-mode: forwards
 
 }
 svg:hover #line3 {
-animation: line3anim4 1s linear;
+animation: line3anim4 .5s linear;
 animation-direction: alternate;
 animation-fill-mode: forwards
 
 }
  #line1 {
-   animation: line1anim2 1s ease-out;
+   animation: line1anim2 .5s ease-out;
  }
   @keyframes line1anim1 {
     from { transform: translate(1px, 4px) }
@@ -11539,7 +11539,7 @@ animation-fill-mode: forwards
 
 
   #line3 {
-    animation: line3anim3 1s ease-in;
+    animation: line3anim3 .5s ease-in;
   }
   @keyframes line3anim3 {
     from { transform: translate(1px, 4px) }
@@ -11549,7 +11549,7 @@ animation-fill-mode: forwards
     from { transform: translate(1px, 14px) }
     to { transform: translate(1px, 4px) }
   }
-.uk-active a, .uk-features h2, .projects-slider h3 {
+.uk-active a, .uk-features h2, .projects-slider h3, .team-slider h3 {
     color: #39f !important;
 }
 

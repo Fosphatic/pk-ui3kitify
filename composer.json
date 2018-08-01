@@ -1,7 +1,7 @@
 {
     "name": "fosphatic/ui3kitify",
     "type": "pagekit-theme",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "UI3Kitify",
     "description": "Based on Pastheme Ankara Theme with UIKit 3 Support.",
     "license": "MIT",
