@@ -73,6 +73,7 @@ return [
       'text_color'  => '',
       'contrast_logo' => false,
       'expand'  => false,
+      'page_icon' => '',
     ],
     'title_hide' => false,
     'content_hide'  => false
@@ -104,6 +105,7 @@ return [
   'events'  => [
     'view.system/site/admin/edit' => function($event , $view){
       $view->script('ui3kitify-node-hero' , 'theme:app/bundle/ui3kitify-node-hero.js' , 'site-edit');
+      $view->script('icon-node' , 'theme:app/bundle/icon-node.js' , 'site-edit');
     },
 
     'view.system/widget/edit' => function ($event, $view) {

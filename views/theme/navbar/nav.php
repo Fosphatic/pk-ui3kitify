@@ -8,7 +8,10 @@
 
   <?php foreach ($root->getChildren() as $node) : ?>
     <li class="<?= $node->hasChildren() ? 'uk-parent' : '' ?><?= $node->get('active') ? ' uk-active' : '' ?>" >
-      <a href="<?= $node->getUrl() ?>">
+      <a class="uk-menu-item-middle" href="<?= $node->getUrl() ?>">
+        <?php if (!empty($node->get('theme.page_icon'))): ?>
+          <i class="uk-margin-small-right" uk-icon="icon:<?= $node->get('theme.page_icon') ?>; ratio: 1.5"></i>
+        <?php endif; ?>
         <?= $node->title ?>
       </a>
 
