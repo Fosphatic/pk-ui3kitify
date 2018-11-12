@@ -2,6 +2,6 @@
 
 ### UI3Ktitify Theme
 
-## A package with demo data and some explanation are available in pagekit community forum.
+## A package with demo data and some explanations are available in pagekit community forum.
 
 Link: https://pagekit-forum.org/forum/thread/531-ui3kitify-for-pagekit/
