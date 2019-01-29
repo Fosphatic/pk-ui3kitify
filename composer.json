@@ -1,15 +1,15 @@
 {
     "name": "fosphatic/ui3kitify",
     "type": "pagekit-theme",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "title": "UI3Kitify",
     "description": "Based on Pastheme Ankara Theme with UIKit 3 Support.",
     "license": "MIT",
     "authors": [
       {
         "name": "Fosphatic",
-        "email": "sven@suchan.me",
-        "homepage": "https://www.suchan.me"
+        "email": "kontakt@suchan-webdesign.de",
+        "homepage": "https://www.suchan-webdesign.de"
       }
     ],
     "extra": {
